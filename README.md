@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[Octopus Review](https://octopus-review.ai)** — Open-source, self-hostable AI code review tool that uses RAG to index entire codebases, providing context-aware PR reviews instead of diff-only analysis. Supports GitHub & Bitbucket, BYOK (Claude/OpenAI), and includes a CLI and natural language codebase chat.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
