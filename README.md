@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[Ejentum agent-teams](https://github.com/ejentum/agent-teams)** Multi-agent code-review team built on the Ejentum Reasoning Harness. Reviewer agents call `harness_code` and `harness_anti_deception` as agentic tools during the review loop; each call returns a structured scaffold (named failure pattern, executable procedure, suppression vectors, falsification test) the agent reads internally before issuing feedback. Catches false-confident approvals and sunk-cost framings that single-agent reviewers miss.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
