@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[Swarm Orchestrator](https://github.com/moonrunnerkc/swarm-orchestrator)** — Audits AI-generated pull requests for eleven cheat patterns (relaxed tests, swallowed errors, fake renames, and more). Advisory by default, with an opt-in merge gate.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
