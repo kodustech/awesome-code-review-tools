@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[PR Quality Analyzer](https://creativecodingsolutions.github.io/pr-quality-analyzer/)** — Free web tool to analyze any GitHub pull request for quality metrics. Paste a PR URL and get an A-F score with detailed breakdown. No sign-up required.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
