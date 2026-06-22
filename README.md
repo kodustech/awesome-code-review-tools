@@ -81,6 +81,7 @@ _Platforms and services built specifically for the code review workflow._
 
 - **[GitHub Pull Requests](https://github.com/features/code-review)** — Built-in code review with inline comments, suggestions, and review assignments.
 - **[GitLab Merge Requests](https://docs.gitlab.com/ee/user/project/merge_requests/)** — Integrated review workflow with approvals, threads, and CI integration.
+- **[PR Radar](https://github.com/deployhq/pr-radar)** — Free browser extension that unifies review state across GitHub, GitLab, and Bitbucket: CI status, unresolved comments, review/approval state, and notifications in one dashboard.
 - **[Gerrit](https://www.gerritcodereview.com)** — Web-based code review tool for Git, used by large open-source projects like Android and Chromium.
 - **[Phabricator](https://www.phacility.com/phabricator/)** — Suite of open-source tools for code review, project management, and repository hosting.
 - **[Crucible](https://www.atlassian.com/software/crucible)** — Atlassian's code review tool for Git, SVN, and Perforce repositories.
