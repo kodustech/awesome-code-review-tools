@@ -75,6 +75,7 @@ _Command-line tools for local code review and developer workflows._
 - **[Reviewdog](https://github.com/reviewdog/reviewdog)** — Automated code review tool that posts review comments from any linter output.
 - **[danger](https://danger.systems)** — Automates common code review chores by running rules during CI.
 
+- [inkode](https://inkode.co/) - Code-quality scanner for AI-generated code: secrets, CVEs, test gaps, complexity, semantic duplication. 0–100 score, local-first CLI.
 ## Code Review Platforms
 
 _Platforms and services built specifically for the code review workflow._
