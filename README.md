@@ -74,6 +74,7 @@ _Command-line tools for local code review and developer workflows._
 - **[OpenCommit](https://github.com/di-sukharev/opencommit)** — Generates semantic git commit messages automatically.
 - **[Reviewdog](https://github.com/reviewdog/reviewdog)** — Automated code review tool that posts review comments from any linter output.
 - **[danger](https://danger.systems)** — Automates common code review chores by running rules during CI.
+- **[PR Risk Labeler](https://github.com/abyworkings-coder/pr-risk-labeler)** — GitHub Action that labels PRs by diff size and by whether they touch configurable critical paths (infra, migrations, payments), posting a reviewer checklist comment.
 
 ## Code Review Platforms
 
