@@ -25,6 +25,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 - **[Kodus](https://kodus.io)** (⭐ _Maintainer_)
   An AI code review agent focusing on high-signal feedback. It allows teams to define custom review guidelines (using plain English) to enforce architectural patterns and best practices, reducing noise in the review process.
 
+- **[Bubo](https://github.com/mountainowl/bubo)** — Open-source, self-hosted AI code reviewer for GitHub and GitLab that runs CLI-driven models, posts evidence-backed inline findings or LGTM, and learns from repository feedback.
+
 - **[CodeRabbit](https://coderabbit.ai)** — Provides line-by-line feedback on pull requests and generates summaries of changes. Features a chat interface within the PR to discuss the feedback with the AI.
 
 - **[Greptile](https://greptile.com)** — An AI engine that indexes the entire codebase to understand context. It focuses on answering complex questions about the repo and reviewing code with full-repository awareness.
