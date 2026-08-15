@@ -74,6 +74,7 @@ _Command-line tools for local code review and developer workflows._
 - **[OpenCommit](https://github.com/di-sukharev/opencommit)** — Generates semantic git commit messages automatically.
 - **[Reviewdog](https://github.com/reviewdog/reviewdog)** — Automated code review tool that posts review comments from any linter output.
 - **[danger](https://danger.systems)** — Automates common code review chores by running rules during CI.
+- **[Double Gate](https://github.com/luohechentim/east-west-gate)** — Open-source Python CLI and library that turns AI-assisted review into an auditable two-gate workflow: convergence-aware panel adjudication, bounded checks of reviewer-cited artifacts, deterministic delivery gates, and repair/re-review verification. Its offline panel is explicitly labeled as a simulation rather than independent assurance.
 
 ## Code Review Platforms
 
