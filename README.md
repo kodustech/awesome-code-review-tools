@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[OrcaCode Review](https://github.com/Continuum-AI-Corp/orca-code-review)** — GitHub Action for pull request review with a P0-P3 severity rubric. Findings post on the affected lines and P0/P1 fails the check; the reviewing model, the rubric, and the merge policy are configured outside the workflow YAML. MIT.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
