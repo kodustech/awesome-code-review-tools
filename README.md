@@ -30,6 +30,7 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 - **[Greptile](https://greptile.com)** — An AI engine that indexes the entire codebase to understand context. It focuses on answering complex questions about the repo and reviewing code with full-repository awareness.
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
+- **[Orbi](https://orbi.build/?ref=awesome-code-review-tools)** — Open-source (AGPL-3.0) runner that takes a labelled GitHub Issue to a pull request, then has a separate review session check the frozen diff against the issue's acceptance criteria; only the reviewed head is merged and released.
 
 ## Static Analysis & Linters
 
