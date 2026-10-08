@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[CodeOtter](https://codeotter.io)** — Self-hosted AI pull request reviewer for GitHub, Forgejo and Gitea that scores PRs, enforces merge gates as status checks and posts inline fixes, using local GGUF models or your own API key.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
