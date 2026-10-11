@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[PR Manager](https://github.com/amitbet/pr-manager)** — Desktop app and CLI that sorts each change in a pull request by how much human review it needs (human, skim, auxiliary, none), walks through the important changes first, shows them on a code map, and fixes found issues on a local branch. Runs on a Claude Code or Codex subscription, or API keys.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
