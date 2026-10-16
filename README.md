@@ -41,6 +41,7 @@ _Traditional and AI-enhanced tools for enforcing code quality, style, and correc
 - **[SonarQube](https://www.sonarsource.com/products/sonarqube/)** — Continuous inspection platform for code quality and security across 30+ languages.
 - **[PMD](https://pmd.github.io)** — Cross-language static analyzer that finds common programming flaws in Java, Apex, and more.
 - **[Checkstyle](https://checkstyle.org)** — Development tool to help write Java code that adheres to a coding standard.
+- **[Code Buster](https://toolbunker.dev/codebuster/)** — Deterministic, offline static analysis for repository structure, dependencies, dead code, duplication, complexity, security, and maintainability across 18 languages.
 
 ## Security-Focused Code Review
 
