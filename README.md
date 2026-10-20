@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[Enhanciar](https://enhanciar.in)** — AI pull-request review with your whole codebase as context. Part of a company brain that also answers questions from Slack, Gmail, Notion and Drive with a source link. Paid; bring your own AI key.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
