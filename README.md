@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[MergeJudge](https://mergejudge.si)** — GitHub App and open-source (MIT) GitHub Action that sorts each pull request into auto, review or block, with reasons and line comments. Deterministic rules set the minimum lane and the model can only raise it. Bring your own model key, or run rules-only.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
