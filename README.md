@@ -31,6 +31,8 @@ _Note: This list is not intended to compare tools; as maintainers of Kodus, we a
 
 - **[Cursor Bugbot](https://cursor.com/bugbot)** — AI-powered PR review that runs automatically to catch real bugs and security issues with a low false-positive rate.
 
+- **[CodePeel](https://www.codepeel.com)** - Automated code review for GitHub pull requests that catches bugs, regressions, and security flaws, and automatically opens real fix pull requests. Includes a local Model Context Protocol (MCP) server for Claude Code and Cursor.
+
 ## Static Analysis & Linters
 
 _Traditional and AI-enhanced tools for enforcing code quality, style, and correctness._
